@@ -15,6 +15,7 @@
     "cli:args": "node src/cli/args.js --propName value --prop2Name value2",
     "hash:calchash": "node src/hash/calcHash.js",
     "stream:read": "node src/streams/read.js",
+    "stream:write": "node src/streams/write.js",
     "zip:compress": "node src/zip/compress.js",
     "zip:decompress": "node src/zip/decompress.js"
   },
